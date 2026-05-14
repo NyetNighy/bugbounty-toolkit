@@ -1,0 +1,48 @@
+[submodule "reconftw"]
+	path = reconftw
+	url = https://github.com/six2dez/reconftw.git
+[submodule "dirsearch"]
+	path = dirsearch
+	url = https://github.com/maurosoria/dirsearch.git
+[submodule "afrog"]
+	path = afrog
+	url = https://github.com/zan8in/afrog.git
+[submodule "subjack"]
+	path = subjack
+	url = https://github.com/haccer/subjack.git
+[submodule "SubDomainizer"]
+	path = SubDomainizer
+	url = https://github.com/nsonaniya2010/SubDomainizer.git
+[submodule "spiderfoot"]
+	path = spiderfoot
+	url = https://github.com/smicallef/spiderfoot.git
+[submodule "maigret"]
+	path = maigret
+	url = https://github.com/soxoj/maigret.git
+[submodule "sherlock"]
+	path = sherlock
+	url = https://github.com/sherlock-project/sherlock.git
+[submodule "ffuf"]
+	path = ffuf
+	url = https://github.com/ffuf/ffuf.git
+[submodule "gobuster"]
+	path = gobuster
+	url = https://github.com/OJ/gobuster.git
+[submodule "axiom"]
+	path = axiom
+	url = https://github.com/pry0cc/axiom.git
+[submodule "Red-Teaming-Toolkit"]
+	path = Red-Teaming-Toolkit
+	url = https://github.com/infosecn1nja/Red-Teaming-Toolkit.git
+[submodule "Resources-for-Beginner-Bug-Bounty-Hunters"]
+	path = Resources-for-Beginner-Bug-Bounty-Hunters
+	url = https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters.git
+[submodule "awesome-oneliner-bugbounty"]
+	path = awesome-oneliner-bugbounty
+	url = https://github.com/dwisiswant0/awesome-oneliner-bugbounty.git
+[submodule "mastg"]
+	path = mastg
+	url = https://github.com/OWASP/mastg.git
+[submodule "hacktricks"]
+	path = hacktricks
+	url = https://github.com/HackTricks-wiki/hacktricks.git
